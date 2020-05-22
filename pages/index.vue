@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Splash/>
+    <Splash class="z-0"/>
     <Footer/>
   </div>
 </template>
