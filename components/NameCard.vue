@@ -10,7 +10,7 @@
             <div class="py-2 ">
                 <a href="https://github.com/ReubenMathew/" class="bg-yellow-500 transition duration-200 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-1 shadow-lg rounded-full">Github</a>
             </div>
-            <div class="py-2 px-4">
+            <div class="py-2 sm:px-4 xs:px-0">
                 <a href="https://twitter.com/NinanReuben" class="bg-yellow-500 transition duration-200 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-1 shadow-lg rounded-full">Twitter</a>
             </div>
             <div class="py-2">
