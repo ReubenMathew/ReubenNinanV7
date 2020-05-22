@@ -7,8 +7,8 @@
 
 <script>
 
-import Footer from '../Components/Footer'
-import Splash from '../Components/Splash'
+import Footer from '../components/Footer'
+import Splash from '../components/Splash'
 
 export default {
   components: {
