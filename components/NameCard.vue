@@ -7,10 +7,10 @@
         <p class="text-2xl mt-2 mb-6 leading-none font-light">Software Engineer</p>
 
         <div class=" text-gray-800 text-lg font-bold flex flex-wrap">
-            <div class="py-2 ">
+            <div class="py-2 pr-3">
                 <a href="https://github.com/ReubenMathew/" class="bg-yellow-500 transition duration-200 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-1 shadow-lg rounded-full">Github</a>
             </div>
-            <div class="py-2 sm:px-4 xs:px-0">
+            <div class="py-2 pr-3">
                 <a href="https://twitter.com/NinanReuben" class="bg-yellow-500 transition duration-200 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-1 shadow-lg rounded-full">Twitter</a>
             </div>
             <div class="py-2">

@@ -12,8 +12,8 @@ module.exports = {
     /* For Letter size */
     screens: {
       print: {"raw": "print"},
-      xsm: "500px",
-      sm: "640px",
+      xsm: "200px",
+      sm: "380px",
       md: "833px",
       lg: "1079.5px",
       xl: "1280px",
