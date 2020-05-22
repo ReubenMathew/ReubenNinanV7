@@ -4,7 +4,7 @@
             <p>Made with ❤️</p>
         </div>
         <div class=" w-1/2 text-right">
-            <p>2020. <b>Lv19 Production</b></p>
+            <p>2020. <b>Lv19</b></p>
         </div>
     </div>
 </template>
