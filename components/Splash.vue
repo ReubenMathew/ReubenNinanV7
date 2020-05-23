@@ -2,9 +2,7 @@
     <div class="">
         <div class="z-0 flex bgimg min-h-screen bg-fixed bg-cover bg-center">
             <div class="z-10 text-left justify-center self-center w-full">
-                <div class="">
-                    <NameCard class="md:ml-20"/>
-                </div>
+                <NameCard class="md:ml-20"/>
             </div>
         </div>
     </div>
