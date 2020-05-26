@@ -1,10 +1,17 @@
 <template>
+    
     <div class="">
-        <div class="z-0 flex bgimg min-h-screen bg-fixed bg-cover bg-center">
-            <div class="z-10 text-left justify-center self-center w-full">
-                <NameCard class="md:ml-20"/>
+        
+        <div class="z-0 flex flex-wrap bgimg min-h-screen bg-fixed bg-cover bg-center">
+
+            <div class="self-center text-left">   
+                <NameCard class=""/>
             </div>
+
+            
+
         </div>
+        
     </div>
 </template>
 

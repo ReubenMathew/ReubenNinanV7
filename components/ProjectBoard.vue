@@ -26,7 +26,7 @@ export default {
           content: 'A technology focused podcast covering topics such as software development, career advice, and other tips for amateurs like me.',
           tags : [
             {name: 'Website', link:'https://anchor.fm/amateur-hour'},
-            {name: 'Spotify', link:'https://open.spotify.com/show/6G01A4kQpffGEIH6aw26mb'}
+            {name: 'Listen', link:'https://open.spotify.com/show/6G01A4kQpffGEIH6aw26mb'}
           ]
       },
       {

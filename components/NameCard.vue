@@ -1,6 +1,6 @@
 <template>
 <div class="px-6">
-  <div class="flex max-w-md shadow-lg bg-gray-900 rounded-lg overflow-hidden">
+  <div class="flex max-w-lg shadow-lg bg-gray-900 rounded-lg overflow-hidden">
      <div class="w-full p-6 text-white">
         <p class="font-bold mt-4 rounded-full text-base uppercase">Toronto, Ontario</p>
         <p class="text-4xl md:text-5xl font-semibold text-yellow-500">Reuben Ninan</p>
@@ -29,9 +29,15 @@
             </div>
             <div class="py-2 pr-3">
                 <a href="https://anchor.fm/amateur-hour/" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
-                    <svg class="h-5 w-5 mr-2 my-auto fill-current stroke-current" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M83 384c-13-33-35-93.37-35-128C48 141.12 149.33 48 256 48s208 93.12 208 208c0 34.63-23 97-35 128" fill="none"  stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M108.39 270.13l-13.69 8h0c-30.23 17.7-31.7 72.41-3.38 122.2s75.87 75.81 106.1 58.12h0l13.69-8a16.16 16.16 0 005.78-21.87L130 276a15.74 15.74 0 00-21.61-5.87zM403.61 270.13l13.69 8h0c30.23 17.69 31.74 72.4 3.38 122.19s-75.87 75.81-106.1 58.12h0l-13.69-8a16.16 16.16 0 01-5.78-21.87L382 276a15.74 15.74 0 0121.61-5.87z" fill="none" stroke-miterlimit="10" stroke-width="32"/></svg>
+                    <svg class="h-5 w-5 mr-2 my-auto fill-current stroke-current" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M83 384c-13-33-35-93.37-35-128C48 141.12 149.33 48 256 48s208 93.12 208 208c0 34.63-23 97-35 128" fill="none"  stroke-linecap="round" stroke-linejoin="round" stroke-width="40"/><path d="M108.39 270.13l-13.69 8h0c-30.23 17.7-31.7 72.41-3.38 122.2s75.87 75.81 106.1 58.12h0l13.69-8a16.16 16.16 0 005.78-21.87L130 276a15.74 15.74 0 00-21.61-5.87zM403.61 270.13l13.69 8h0c30.23 17.69 31.74 72.4 3.38 122.19s-75.87 75.81-106.1 58.12h0l-13.69-8a16.16 16.16 0 01-5.78-21.87L382 276a15.74 15.74 0 0121.61-5.87z" fill="none" stroke-miterlimit="10" stroke-width="40"/></svg>
                     Podcast
                 </a>
+            </div>
+            <div class="py-2 pr-3">
+                <nuxt-link to="about" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
+                <svg class="h-5 w-5 mr-2 my-auto fill-current stroke-current" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M344 144c-3.92 52.87-44 96-88 96s-84.15-43.12-88-96c-4-55 35-96 88-96s92 42 88 96z" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="40"/><path d="M256 304c-87 0-175.3 48-191.64 138.6C62.39 453.52 68.57 464 80 464h352c11.44 0 17.62-10.48 15.65-21.4C431.3 352 343 304 256 304z" fill="none" stroke-miterlimit="10" stroke-width="40"/></svg>
+                About
+                </nuxt-link>
             </div>
             
         </div>
