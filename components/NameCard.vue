@@ -21,12 +21,19 @@
                     Twitter
                 </a>
             </div>
-            <div class="py-2">
+            <div class="py-2 pr-3">
                 <nuxt-link to="resume" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
                     <svg class="h-5 w-5 mr-2 my-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path d="M55.2 7.5h-1.9V3.7c0-2.1-1.6-3.7-3.7-3.7H9.1C6.9 0 5.3 1.6 5.3 3.7v38.1c0 .8.3 1.3.8 1.9l19.7 19.5c.5.5 1.1.8 1.9.8h21.9c2.1 0 3.7-1.6 3.7-3.7v-3.7l5.1-10.1c.3-.3.3-.8.3-1.1V10.7c0-1.6-1.4-3.2-3.5-3.2zM53.3 16H48v-3.5h5.3V16zM24 53.9l-8.5-8.5H24v8.5zm5.3 4.8V43.2c0-1.9-1.6-3.2-3.2-3.2H10.7V5.3H48v2.1h-1.9c-1.9 0-3.5 1.3-3.5 3.2V45c0 .5 0 .8.3 1.3L48 56.5v2.1H29.3zm21.4-8.8L48 44.5V21.3h5.3v23.2l-2.6 5.4z"/></svg>
                     Resume
                 </nuxt-link>
             </div>
+            <div class="py-2 pr-3">
+                <a href="https://anchor.fm/amateur-hour/" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
+                    <svg class="h-5 w-5 mr-2 my-auto fill-current stroke-current" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M83 384c-13-33-35-93.37-35-128C48 141.12 149.33 48 256 48s208 93.12 208 208c0 34.63-23 97-35 128" fill="none"  stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M108.39 270.13l-13.69 8h0c-30.23 17.7-31.7 72.41-3.38 122.2s75.87 75.81 106.1 58.12h0l13.69-8a16.16 16.16 0 005.78-21.87L130 276a15.74 15.74 0 00-21.61-5.87zM403.61 270.13l13.69 8h0c30.23 17.69 31.74 72.4 3.38 122.19s-75.87 75.81-106.1 58.12h0l-13.69-8a16.16 16.16 0 01-5.78-21.87L382 276a15.74 15.74 0 0121.61-5.87z" fill="none" stroke-miterlimit="10" stroke-width="32"/></svg>
+                    Podcast
+                </a>
+            </div>
+            
         </div>
 
     </div>
