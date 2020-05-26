@@ -4,7 +4,7 @@
         
         <div class="z-0 flex flex-wrap bgimg min-h-screen bg-fixed bg-cover bg-center">
 
-            <div class="self-center py-4 text-left">   
+            <div class="self-center py-10 text-left">   
                 <NameCard class=""/>
             </div>
 
