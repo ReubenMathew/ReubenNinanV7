@@ -5,7 +5,7 @@
     </div>
     <div class="flex mt-4 justify-between items-center">
       <span class="text-sm text-gray-600">{{task.date}}</span>
-      <badge v-if="task.type" :text="task.type" :color="task.color"></badge>
+      <badge v-if="task.type" :color="badgeColor">{{task.type}}</badge>
     </div>
   </div>
 </template>
@@ -19,6 +19,18 @@ export default {
     task: {
       type: Object,
       default: () => ({})
+    }
+  },
+  computed: {
+    badgeColor() {
+      const mappings = {
+        Design: "purple",
+        "Feature Request": "teal",
+        Backend: "blue",
+        QA: "green",
+        default: "teal"
+      };
+      return mappings[this.task.type] || mappings.default;
     }
   }
 };
