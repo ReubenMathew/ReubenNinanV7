@@ -20,7 +20,7 @@
                 </nuxt-link>
             </div>
             <div class="py-2 pr-3">
-                <a href="https://github.com/ReubenMathew/" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
+                <a href="https://github.com/ReubenMathew/" class="flex items-center  bg-yellow-500 transition duration-300 ease-in-out hover:text-white border border-yellow-500 hover:border-white hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
                     <svg class="h-6 w-6 mr-2 my-auto fill-current stroke-current " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title" aria-describedby="desc">
                     <path data-name="layer1" d="M32 2a30 30 0 00-9.5 58.5c1.5.2 2-.7 2-1.5v-5.6c-8.3 1.8-10-3.5-10-3.5-1.4-3.5-3.4-4.4-3.4-4.4-2.7-2 .2-1.8.2-1.8 3 .2 4.6 3 4.6 3 2.7 4.7 7 3.3 8.7 2.6a6.5 6.5 0 011.9-4c-6.7-.8-13.7-3.4-13.7-14.8a11.5 11.5 0 013-8.1 11.2 11.2 0 01.4-8s2.5-.8 8.2 3.1a29 29 0 017.5-1 28.4 28.4 0 017.5 1c5.7-3.8 8.3-3 8.3-3a11.2 11.2 0 01.2 7.9 11.3 11.3 0 013.1 8c0 11.6-7 14.1-13.7 14.9a7.3 7.3 0 012.1 5.5v8.3c0 .8.6 1.6 2 1.4A30 30 0 0032 2z" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4" stroke-linejoin="round"/>
                     </svg>
@@ -28,19 +28,19 @@
                 </a>
             </div>
             <div class="py-2 pr-3">
-                <a href="https://twitter.com/NinanReuben" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
+                <a href="https://twitter.com/NinanReuben" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-blue-500 border border-yellow-500 hover:border-blue-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
                     <svg class="h-5 w-5 mr-2 my-auto fill-current" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 64 64" xml:space="preserve"><style>.st0{fill:none;stroke:#000;stroke-miterlimit:10}</style><path d="M22.2 58c-5.4 0-13.3-1-20-5.8-2-1.4-2.8-4.1-1.8-6.4.9-2.3 3.4-3.6 5.9-3.1 0 0 1 .2 2.5.1-1-1.4-1.9-3-2.5-4.7-.2-.6-.3-1.1-.3-1.7-2.5-2.9-3.8-6.5-3.8-10.5 0-.9.2-1.8.7-2.5C2 20 1.7 15.5 4.6 10.7 5.5 9.3 7 8.3 8.7 8.1h.2c1.8-.1 3.4.6 4.5 1.8.7.7 6.1 6.4 13 8.3C28 11.2 34.4 6 42.1 6c3.4 0 6.7 1 9.3 2.9.7-.2 1.6-.5 2.4-1.1 1.6-1.1 3.7-1.3 5.4-.4 1.7.8 2.9 2.4 3.1 4.3V12.6c1.4 1.4 1.9 3.4 1.3 5.2-.5 1.7-2.1 3.8-5.4 6.8-.2 7.4-3.7 27.2-28.6 32.8-.2 0-3.2.6-7.4.6zM5.4 47.6c-.2 0-.3.1-.3.1v.1c-.1.1-.1.2 0 .3 5.6 4.1 12.4 4.9 17.1 4.9 3.7 0 6.3-.5 6.4-.5 22.6-5.1 24.8-23.6 24.9-29.2 0-.7.3-1.4.8-1.8 4.2-3.7 4.7-5 4.7-5.1.1-.2-.1-.4-.2-.4l-.1-.1c-1.1-.5-1.7-1.8-1.3-3 .1-.3.1-.5.1-.7 0-.1-.1-.2-.2-.3-.1 0-.1-.1-.2-.1s-.2 0-.4.1c-2.2 1.5-4.5 2-5.6 2.1-.7.1-1.3-.1-1.8-.5-1.9-1.6-4.5-2.4-7.1-2.4-6.1 0-11 4.5-11.2 10.4 0 .7-.3 1.4-.9 1.8-.5.5-1.2.7-1.9.6-9.5-1.3-17-8.9-18.5-10.4l-.1-.1c-.1-.1-.3-.1-.4-.1-.2 0-.3.2-.4.3-1.8 3-2 6.2-.7 9.4.4 1 .2 2.2-.7 2.9l-.2.2c0 3.2 1 5.8 3.2 7.8.7.7.9 1.6.7 2.5v.3c.8 2.5 2.4 4.5 4.6 5.8.8.5 1.3 1.4 1.2 2.4-.1 1-.8 1.8-1.7 2.1-4.6 1.5-9.5.8-9.7.7 0-.1-.1-.1-.1-.1zm53.1-31.9z"/><path class="st0" d="M-5.7.9zM32 32z"/></svg>
                     Twitter
                 </a>
             </div>
             <div class="py-2 pr-3">
-                <a href="https://anchor.fm/amateur-hour/" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
+                <a href="https://anchor.fm/amateur-hour/" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-purple-500 border border-yellow-500 hover:border-purple-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
                     <svg class="h-5 w-5 mr-2 my-auto fill-current stroke-current" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M83 384c-13-33-35-93.37-35-128C48 141.12 149.33 48 256 48s208 93.12 208 208c0 34.63-23 97-35 128" fill="none"  stroke-linecap="round" stroke-linejoin="round" stroke-width="40"/><path d="M108.39 270.13l-13.69 8h0c-30.23 17.7-31.7 72.41-3.38 122.2s75.87 75.81 106.1 58.12h0l13.69-8a16.16 16.16 0 005.78-21.87L130 276a15.74 15.74 0 00-21.61-5.87zM403.61 270.13l13.69 8h0c30.23 17.69 31.74 72.4 3.38 122.19s-75.87 75.81-106.1 58.12h0l-13.69-8a16.16 16.16 0 01-5.78-21.87L382 276a15.74 15.74 0 0121.61-5.87z" fill="none" stroke-miterlimit="10" stroke-width="40"/></svg>
                     Podcast
                 </a>
             </div>
             <div class="py-2 pr-3">
-                <a href="https://www.linkedin.com/in/reuben-ninan/" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
+                <a href="https://www.linkedin.com/in/reuben-ninan/" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-indigo-500 border border-yellow-500 hover:border-indigo-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
                     <svg class="h-5 w-5 mr-2 my-auto fill-current stroke-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                     <path d="M444.17 32H70.28C49.85 32 32 46.7 32 66.89v374.72C32 461.91 49.85 480 70.28 480h373.78c20.54 0 35.94-18.21 35.94-38.39V66.89C480.12 46.7 464.6 32 444.17 32zm-273.3 373.43h-64.18V205.88h64.18zM141 175.54h-.46c-20.54 0-33.84-15.29-33.84-34.43 0-19.49 13.65-34.42 34.65-34.42s33.85 14.82 34.31 34.42c-.01 19.14-13.31 34.43-34.66 34.43zm264.43 229.89h-64.18V296.32c0-26.14-9.34-44-32.56-44-17.74 0-28.24 12-32.91 23.69-1.75 4.2-2.22 9.92-2.22 15.76v113.66h-64.18V205.88h64.18v27.77c9.34-13.3 23.93-32.44 57.88-32.44 42.13 0 74 27.77 74 87.64z"/>
                     </svg>
