@@ -33,19 +33,21 @@ export default {
     return {
       columns: [
         {
-          title: "Backlog",
+          title: "2020",
           tasks: [
             {
               id: 1,
-              title: "Add discount code to checkout page",
-              date: "Sep 14",
-              type: "School",
-              color: "purple"
+              title: "Joined RBC as a Data Science Intern",
+              date: "May",
+              type: "Work",
+              color: "blue"
             },
             {
               id: 2,
-              title: "Provide documentation on integrations",
-              date: "Sep 12"
+              title: "Created SodaDB",
+              date: "April",
+              type: "Project",
+              color: "orange"
             },
             {
               id: 3,

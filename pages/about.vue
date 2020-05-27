@@ -12,14 +12,7 @@
       <p class="mb-8 leading-relaxed">My name is Reuben Ninan and I am a 19-year-old developer from Toronto. I currently study Software Engineering and Computer Security (B.Eng) at the Lassonde School of Engineering.</p>
       <p class="mb-8 leading-relaxed">Below is a timeline of my professional and personal journey for the last few years.</p>
 
-        <div
-          class="px-3 h-6 rounded-full text-xs font-semibold flex items-center bg-purple-100 text-purple-700"
-        >
-          <span class="w-2 h-2 rounded-full mr-1" :class="`bg-purple-400`"></span>
-          <span>
-            Test Badge
-          </span>
-        </div>
+
 
     </div>
 
