@@ -13,8 +13,7 @@
       <p class="mb-8 leading-relaxed">Below is a timeline of my professional and personal journey for the last few years.</p>
 
         <div
-          class="px-3 h-6 rounded-full text-xs font-semibold flex items-center"
-          :class="`bg-purple-100 text-purple-700`"
+          class="px-3 h-6 rounded-full text-xs font-semibold flex items-center bg-purple-100 text-purple-700"
         >
           <span class="w-2 h-2 rounded-full mr-1" :class="`bg-purple-400`"></span>
           <span>
