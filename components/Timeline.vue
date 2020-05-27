@@ -14,7 +14,7 @@
               v-for="(task) in column.tasks"
               :key="task.id"
               :task="task"
-              class="mt-3 cursor-move"
+              class="mt-3 cursor-text"
             ></task-card>
         </div>
       </div>
@@ -39,7 +39,8 @@ export default {
               id: 1,
               title: "Add discount code to checkout page",
               date: "Sep 14",
-              type: "Feature Request"
+              type: "School",
+              color: "purple"
             },
             {
               id: 2,

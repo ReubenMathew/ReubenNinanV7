@@ -5,7 +5,7 @@
   >
     <span class="w-2 h-2 rounded-full mr-1" :class="`bg-${color}-400`"></span>
     <span>
-      <slot></slot>
+      {{text}}
     </span>
   </div>
 </template>
@@ -15,6 +15,10 @@ export default {
     color: {
       type: String,
       default: "teal"
+    },
+    text : {
+      type: String,
+      default: ""
     }
   }
 };
