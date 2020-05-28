@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import TaskCard from "./timeline/TaskCard.vue";
+import TaskCard from "../components/timeline/TaskCard.vue";
 export default {
   name: "App",
   components: {
@@ -35,6 +35,11 @@ export default {
         {
           title: "About Me",
           tasks: [
+            {
+              id: 1,
+              title: "In love with da cutest lil bean 💖",
+              date: "Current",
+            },
             {
               title: "👨🏽‍🍳 19-year-old living in Toronto, Ontario",
             },
@@ -63,6 +68,7 @@ export default {
         {
           title: "2020",
           tasks: [
+
             {
               id: 1,
               title: "🏦 Data Science Intern at RBC",
@@ -91,8 +97,13 @@ export default {
           ]
         },
         {
-          title: "2019",
+          title: "2019 🐨",
           tasks: [
+            {
+              id: 4,
+              title: "Found the love of my life ❤",
+              date: "Jan",
+            },
             {
               id: 4,
               title: "🏦 Data Science Intern at RBC",
