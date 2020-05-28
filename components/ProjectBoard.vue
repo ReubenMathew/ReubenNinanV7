@@ -35,7 +35,7 @@ export default {
           content: 'A Beginner-Friendly Concurrent Datastore built with Go',
           tags: [
             {name: 'Source Code', link: 'https://github.com/ReubenMathew/SodaDB'},
-            {name: 'Download', link: 'https://github.com/ReubenMathew/SodaDB/releases/tag/v1.0'},
+            {name: 'Download', link: 'https://github.com/ReubenMathew/SodaDB/releases/'},
           ],
       },
       {
@@ -44,7 +44,7 @@ export default {
           content: 'A minimalist commandline-interface for ICMP Echo Requests, commonly known as PING.',
           tags: [
             {name: 'Source Code', link: 'https://github.com/ReubenMathew/pingo'},
-            {name: 'Download', link: 'https://github.com/ReubenMathew/pingo/releases/tag/v1'},
+            {name: 'Download', link: 'https://github.com/ReubenMathew/pingo/releases/'},
           ],
       },
       {
