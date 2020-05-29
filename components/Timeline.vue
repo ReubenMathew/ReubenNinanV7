@@ -70,22 +70,22 @@ export default {
             },
             {
               id: 2,
-              title: "Created SodaDB, a beginner friendly datastore 📦",
+              title: "📦 Created SodaDB, a beginner friendly datastore ",
               date: "May",
             },
             {
               id: 2,
-              title: "Made my own Podcast for Developers (Amateur Hour) 🎧",
+              title: "🎧 Made my own Podcast for Developers (Amateur Hour) ",
               date: "Apr",
             },
             {
               id: 2,
-              title: "Created pingo, a simple ping client 📦",
+              title: "📦 Created pingo, a simple ping client ",
               date: "Apr",
             },
             {
               id: 3,
-              title: "Worked on VennFX, an intuitive idea-formation app 📦",
+              title: " Worked on VennFX, an intuitive idea-formation app ",
               date: "Jan-Apr",
             },
           ]
@@ -97,6 +97,11 @@ export default {
               id: 4,
               title: "🏦 Data Science Intern at RBC",
               date: "Apr-Aug",
+            },
+            {
+              id: 4,
+              title: "📦 Created DocScanner",
+              date: "Jan",
             },
           ]
         },
@@ -115,7 +120,7 @@ export default {
             },
             {
               id: 6,
-              title: "Organized WolfHacks Hackathon in Brampton, Ontario 🐺",
+              title: "🐺 Organized WolfHacks Hackathon in Brampton, Ontario ",
               date: "March",
             },
           ]
@@ -125,12 +130,12 @@ export default {
           tasks: [
             {
               id: 6,
-              title: "Competed in Vex & First Robotics Competition 🤖",
+              title: "🤖 Competed in Vex & First Robotics Competition ",
               date: "2015-2018",
             },
             {
               id: 6,
-              title: "Started Coding 👨🏽‍💻",
+              title: "👨🏽‍💻 Started Coding ",
               date: "2011",
             },
           ]
