@@ -44,8 +44,8 @@ export default {
               date: "School"
             },
             {
-              title: "Design 🎨, cyber-security 🔐 and product management 📦",
-              date: "My interests"
+              title: "Design 🎨, product management 📦 and cyber-security 🔐",
+              date: "My interests and areas of focus"
             },
             {
               title: "⚙ Python, Java, Go, JavaScript",
@@ -71,7 +71,7 @@ export default {
           tasks: [
             {
               id: 1,
-              title: "🏦 Data Science Intern at RBC",
+              title: "🏦 Working as a Data Science Intern at Royal Bank of Canada (RBC)",
               date: "May-Aug",
             },
             {
@@ -86,7 +86,7 @@ export default {
             },
             {
               id: 2,
-              title: "📦 Created pingo, a simple ping client ",
+              title: "📦 Created pingo, a minimalist ICMP echo request client",
               date: "Apr",
             },
             {
@@ -101,12 +101,12 @@ export default {
           tasks: [
             {
               id: 4,
-              title: "🏦 Data Science Intern at RBC",
+              title: "🏦 Worked as a Data Science Intern at Royal Bank of Canada (RBC)",
               date: "Apr-Aug",
             },
             {
               id: 4,
-              title: "📦 Created DocScanner",
+              title: "📦 Created DocScanner, a scanner web app written in Python",
               date: "Jan",
             },
           ]
