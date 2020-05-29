@@ -37,9 +37,11 @@ export default {
           tasks: [
             {
               title: "👨🏽‍🍳 19-year-old living in Toronto, Ontario",
+              date: "Reuben Ninan"
             },
             {
-              title: "🎓 Studying Software Engineering and Computer Security (B.Eng) 👨🏽‍🔬 at York University"
+              title: "🎓 Studying Software Engineering and Computer Security (B.Eng) 👨🏽‍🔬 at York University",
+              date: "School"
             },
             {
               title: "Design 🎨, cyber-security 🔐 and product management 📦",
@@ -51,7 +53,11 @@ export default {
             },
             {
               title:'🛠 Kubernetes, Docker, Kompose, Redis, Celery, RabbitMQ',
-              date: "Distributed Systems Technologies"
+              date: "Distributed Systems Technologies I use"
+            },
+            {
+              title:'⚗ VueJS, React Native, TailwindCSS, Fluent UI, Figma, Photoshop',
+              date: "Frontend and UI/UX I use"
             },
             {
               title: "🖥 TailwindCSS, NuxtJS, Vercel Now",
@@ -75,7 +81,7 @@ export default {
             },
             {
               id: 2,
-              title: "🎧 Made my own Podcast for Developers (Amateur Hour) ",
+              title: "🎧 Started my own Podcast for Developers (Amateur Hour) ",
               date: "Apr",
             },
             {
@@ -85,7 +91,7 @@ export default {
             },
             {
               id: 3,
-              title: " Worked on VennFX, an intuitive idea-formation app ",
+              title: "📦 Worked on VennFX, an intuitive idea-formation app ",
               date: "Jan-Apr",
             },
           ]
