@@ -45,19 +45,19 @@ export default {
             },
             {
               title: "Design 🎨, cyber-security 🔐 and product management 📦",
-              date: "My Interests"
+              date: "My interests"
             },
             {
               title: "⚙ Python, Java, Go, JavaScript",
-              date: "Languages I use"
+              date: "Languages I work with"
             },
             {
               title:'🛠 Kubernetes, Docker, Kompose, Redis, Celery, RabbitMQ',
-              date: "Distributed Systems Technologies I use"
+              date: "Distributed Systems Technologies I have used"
             },
             {
               title:'⚗ VueJS, React Native, TailwindCSS, Fluent UI, Figma, Photoshop',
-              date: "Frontend and UI/UX I use"
+              date: "Frontend and UI/UX tools I like"
             },
             {
               title: "🖥 TailwindCSS, NuxtJS, Vercel Now",
