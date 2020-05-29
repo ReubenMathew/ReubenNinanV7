@@ -3,7 +3,7 @@
   <div class="px-10 py-8 ">
     <nuxt-link to="/" class="inline-flex text-white bg-teal-600 border-0 py-2 px-4 focus:outline-none hover:bg-gray-600 rounded text-base">Go Home</nuxt-link>
   </div>
-  <div class="container mx-auto flex px-5 items-center justify-center pt-12 flex-col">
+  <div class="container mx-auto flex px-5 items-center justify-center pt-8 flex-col">
 
     <img class="lg:w-1/4 w-5/6 mb-10 object-cover object-center rounded-full" alt="hero" src="../assets/img/profile.jpg">
     <div class="text-center lg:w-2/3 w-full">
