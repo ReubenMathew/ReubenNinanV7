@@ -53,7 +53,7 @@ export default {
             },
             {
               title:'🛠 Kubernetes, Docker, Kompose, Redis, Celery, RabbitMQ',
-              date: "Distributed Systems Technologies I have used"
+              date: "Distributed Systems Technologies I use"
             },
             {
               title:'⚗ VueJS, React Native, TailwindCSS, Fluent UI, Figma, Photoshop',
