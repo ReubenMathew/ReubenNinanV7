@@ -8,13 +8,13 @@
 
         <div class=" text-gray-800 text-md font-bold flex flex-wrap">
             <div class="py-2 pr-3">
-                <nuxt-link to="about" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
+                <nuxt-link to="about" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-teal-500 hover:border-teal-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
                     <svg class="h-5 w-5 mr-2 my-auto fill-current stroke-current" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M344 144c-3.92 52.87-44 96-88 96s-84.15-43.12-88-96c-4-55 35-96 88-96s92 42 88 96z" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="40"/><path d="M256 304c-87 0-175.3 48-191.64 138.6C62.39 453.52 68.57 464 80 464h352c11.44 0 17.62-10.48 15.65-21.4C431.3 352 343 304 256 304z" fill="none" stroke-miterlimit="10" stroke-width="40"/></svg>
                     About
                 </nuxt-link>
             </div>
             <div class="py-2 pr-3">
-                <nuxt-link to="resume" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
+                    <nuxt-link to="resume" class="flex items-center bg-yellow-500 transition duration-300 ease-in-out hover:text-yellow-500 hover:border-yellow-500 border border-yellow-500 hover:bg-transparent px-4 py-2 shadow-lg rounded-full">
                     <svg class="h-5 w-5 mr-2 my-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path d="M55.2 7.5h-1.9V3.7c0-2.1-1.6-3.7-3.7-3.7H9.1C6.9 0 5.3 1.6 5.3 3.7v38.1c0 .8.3 1.3.8 1.9l19.7 19.5c.5.5 1.1.8 1.9.8h21.9c2.1 0 3.7-1.6 3.7-3.7v-3.7l5.1-10.1c.3-.3.3-.8.3-1.1V10.7c0-1.6-1.4-3.2-3.5-3.2zM53.3 16H48v-3.5h5.3V16zM24 53.9l-8.5-8.5H24v8.5zm5.3 4.8V43.2c0-1.9-1.6-3.2-3.2-3.2H10.7V5.3H48v2.1h-1.9c-1.9 0-3.5 1.3-3.5 3.2V45c0 .5 0 .8.3 1.3L48 56.5v2.1H29.3zm21.4-8.8L48 44.5V21.3h5.3v23.2l-2.6 5.4z"/></svg>
                     Resume
                 </nuxt-link>

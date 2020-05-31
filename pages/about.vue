@@ -5,7 +5,7 @@
   </div>
   <div class="container mx-auto flex px-5 items-center justify-center pt-8 flex-col">
 
-    <img class="lg:w-1/4 w-5/6 mb-10 object-cover object-center rounded-full" alt="hero" src="../assets/img/profile.jpg">
+    <img class="lg:w-1/4 md:w-1/3 w-5/6 mb-10 object-cover object-center rounded-full" alt="hero" src="../assets/img/profile.jpg">
     <div class="text-center lg:w-2/3 w-full">
 
         <h1 class="title-font sm:text-4xl text-3xl py-2 font-medium text-gray-900">Reuben Ninan</h1>
